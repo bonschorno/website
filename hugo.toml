@@ -27,6 +27,4 @@ url = "/pizza"
 name = "about"
 url = "/about"
 
-[[params.social]]
-name = "github"
-url = "https://github.com/bonschorno"
+footerContent = "Powered by [Hugo](https://gohugo.io/), co-created with [Claude](https://claude.ai/), and theme based on [tomfran/typo](https://github.com/tomfran/typo)"
