@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 .vinyl-page h1 {
   margin-bottom: 0.2em;
 }

@@ -17,16 +17,12 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "short-bio"
-url = "/short-bio"
-
-[[params.menu]]
 name = "vinyls"
 url = "/vinyls"
 
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/colin-walder/"
+[[params.menu]]
+name = "about"
+url = "/about"
 
 [[params.social]]
 name = "github"
