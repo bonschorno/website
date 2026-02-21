@@ -7,12 +7,7 @@ theme = "typo"
 homeIntroTitle = "Salut! 👋"
 
 homeIntroContent = """
-I work as a Scientific Collaborator and Data Steward for the [Global Health Engineering](https://ghe.ethz.ch/) group at ETH Zürich. I [teach](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=183181&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de), do research on maize fertilizer, and support team members with any kind of data-related questions.
-
-
-
-*Last update: 2025-08-22*
-
+TBD.
 """
 
 # Main menu pages
