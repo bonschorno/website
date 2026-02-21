@@ -1,13 +1,12 @@
 baseURL = 'https://bonschorno.org/'
 languageCode = 'en-us'
-title = "Colin W."
+title = "C.W."
 theme = "typo"
 
 [params]
 homeIntroTitle = "Salut! 👋"
 
 homeIntroContent = """
-TBD.
 """
 
 # Main menu pages
@@ -19,6 +18,10 @@ url = "/"
 [[params.menu]]
 name = "vinyls"
 url = "/vinyls"
+
+[[params.menu]]
+name = "pizza"
+url = "/pizza"
 
 [[params.menu]]
 name = "about"
