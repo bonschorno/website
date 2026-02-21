@@ -1,0 +1,34 @@
+baseURL = 'https://bonschorno.org/'
+languageCode = 'en-us'
+title = "Colin W."
+theme = "typo"
+
+[params]
+homeIntroTitle = "Salut! 👋"
+
+homeIntroContent = """
+I work as a Scientific Collaborator and Data Steward for the [Global Health Engineering](https://ghe.ethz.ch/) group at ETH Zürich. I [teach](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=183181&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de), do research on maize fertilizer, and support team members with any kind of data-related questions.
+
+
+
+*Last update: 2025-08-22*
+
+"""
+
+# Main menu pages
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "short-bio"
+url = "/short-bio"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/colin-walder/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/bonschorno"
