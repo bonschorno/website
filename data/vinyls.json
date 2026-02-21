@@ -1,0 +1,639 @@
+[
+  {
+    "title": "Never Goin' Back To Georgia",
+    "artist": "Blues Magoos",
+    "label": "ABC Records",
+    "year": 1969,
+    "image": "vinyls-cover/2940000.jpg"
+  },
+  {
+    "title": "16 Of Their Greatest Hits",
+    "artist": "The Mamas & The Papas",
+    "label": "ABC Records",
+    "year": 0,
+    "image": "vinyls-cover/6191943.jpg"
+  },
+  {
+    "title": "Merveilles Du Passé (1962)",
+    "artist": "Franco",
+    "label": "African",
+    "year": 1987,
+    "image": "vinyls-cover/3614539.jpg"
+  },
+  {
+    "title": "D' Schwyz Hört Nid Uf In Winterthur (Ju-Ski-La)",
+    "artist": "Various",
+    "label": "altana",
+    "year": 1978,
+    "image": "vinyls-cover/21859354.jpg"
+  },
+  {
+    "title": "Ethio Jazz =  የካተት",
+    "artist": "Mulatu Astatke",
+    "label": "Amha Records",
+    "year": 2020,
+    "image": "vinyls-cover/18637648.jpg"
+  },
+  {
+    "title": "Orchestre Massako",
+    "artist": "Orchestre Massako",
+    "label": "Analog Africa",
+    "year": 2022,
+    "image": "vinyls-cover/23256260.jpg"
+  },
+  {
+    "title": "Volume 1 ★ Volume 2",
+    "artist": "Dur-Dur Band",
+    "label": "Analog Africa",
+    "year": 2018,
+    "image": "vinyls-cover/12516028.jpg"
+  },
+  {
+    "title": "Mogadisco (Dancing Mogadishu - Somalia 1972​-​1991)",
+    "artist": "Various",
+    "label": "Analog Africa",
+    "year": 2019,
+    "image": "vinyls-cover/14448049.jpg"
+  },
+  {
+    "title": "Europa Tour",
+    "artist": "Adriano Celentano",
+    "label": "Ariola",
+    "year": 1978,
+    "image": "vinyls-cover/3993656.jpg"
+  },
+  {
+    "title": "The Best Of Otis Redding",
+    "artist": "Otis Redding",
+    "label": "Atlantic",
+    "year": 1972,
+    "image": "vinyls-cover/10196017.jpg"
+  },
+  {
+    "title": "Yene Mircha",
+    "artist": "Hailu Mergia",
+    "label": "Awesome Tapes From Africa",
+    "year": 2020,
+    "image": "vinyls-cover/14914253.jpg"
+  },
+  {
+    "title": "Akwaba Beach",
+    "artist": "Mory Kanté",
+    "label": "Barclay",
+    "year": 1987,
+    "image": "vinyls-cover/18289954.jpg"
+  },
+  {
+    "title": "10 Cola Nuts",
+    "artist": "Mory Kanté",
+    "label": "Barclay",
+    "year": 1986,
+    "image": "vinyls-cover/1339504.jpg"
+  },
+  {
+    "title": "En Direct De L'Olympia",
+    "artist": "Mireille Mathieu",
+    "label": "Barclay",
+    "year": 1966,
+    "image": "vinyls-cover/11756137.jpg"
+  },
+  {
+    "title": "Fanta Sacko",
+    "artist": "Fanta Sacko",
+    "label": "Bärenreiter-Musicaphon",
+    "year": 1971,
+    "image": "vinyls-cover/3487852.jpg"
+  },
+  {
+    "title": "20 Rock'n Roll Hits",
+    "artist": "Various",
+    "label": "Bellaphon",
+    "year": 0,
+    "image": "vinyls-cover/4132446.jpg"
+  },
+  {
+    "title": "The Art Of Loving",
+    "artist": "Olivia Dean",
+    "label": "Capitol Records",
+    "year": 2025,
+    "image": "vinyls-cover/35207368.jpg"
+  },
+  {
+    "title": "Bob Dylan's Greatest Hits",
+    "artist": "Bob Dylan",
+    "label": "CBS",
+    "year": 0,
+    "image": "vinyls-cover/8949809.jpg"
+  },
+  {
+    "title": "Best Of Ambassadeurs",
+    "artist": "Les Ambassadeurs Internationaux",
+    "label": "Celluloid",
+    "year": 0,
+    "image": "vinyls-cover/2280784.jpg"
+  },
+  {
+    "title": "Nouba Zidane / Nouba Ghrib",
+    "artist": "Dahmane Ben Achour",
+    "label": "Club Du Disque Arabe",
+    "year": 0,
+    "image": "vinyls-cover/3080884.jpg"
+  },
+  {
+    "title": "Coming Home",
+    "artist": "Leon Bridges",
+    "label": "Columbia",
+    "year": 2018,
+    "image": "vinyls-cover/13075168.jpg"
+  },
+  {
+    "title": "Cross Over",
+    "artist": "Fania All Stars",
+    "label": "Columbia",
+    "year": 1979,
+    "image": "vinyls-cover/341057.jpg"
+  },
+  {
+    "title": "Ali",
+    "artist": "Vieux Farka Touré",
+    "label": "Dead Oceans",
+    "year": 2022,
+    "image": "vinyls-cover/24597905.jpg"
+  },
+  {
+    "title": "Disco-Club, Vol. 2 - African Sound",
+    "artist": "Various",
+    "label": "Decca",
+    "year": 1976,
+    "image": "vinyls-cover/1371592.jpg"
+  },
+  {
+    "title": "Allocution De Son Excellence Le General De Corps D'Armee Mobutu Sese Seko Kuku Ngwendu Wa Zabanga",
+    "artist": "Mobutu Sese Seko Kuku Ngwendu Wa Zabanga",
+    "label": "Département De L' Orientation Nationale",
+    "year": 1973,
+    "image": "vinyls-cover/5289302.jpg"
+  },
+  {
+    "title": "Sucesos Salsa",
+    "artist": "The Latin Brothers",
+    "label": "Discos Fuentes",
+    "year": 1990,
+    "image": "vinyls-cover/13033595.jpg"
+  },
+  {
+    "title": "Et Sa Cora",
+    "artist": "Batourou Sekou Kouyate",
+    "label": "Disques Kouma",
+    "year": 1976,
+    "image": "vinyls-cover/5269528.jpg"
+  },
+  {
+    "title": "Sonido Cósmico",
+    "artist": "Hermanos Gutiérrez (2)",
+    "label": "Easy Eye Sound",
+    "year": 2024,
+    "image": "vinyls-cover/30990373.jpg"
+  },
+  {
+    "title": "L'Épopée Du Mandingue Vol. 3",
+    "artist": "Kouyate Sory Kandia",
+    "label": "Editions Syliphone Conakry",
+    "year": 1973,
+    "image": "vinyls-cover/3393263.jpg"
+  },
+  {
+    "title": "Nigeria Koni Baje",
+    "artist": "Alhaji Ayinla Omowura Memorial Band",
+    "label": "EMI",
+    "year": 0,
+    "image": "vinyls-cover/10848698.jpg"
+  },
+  {
+    "title": "Work Of Art",
+    "artist": "Asake",
+    "label": "Empire",
+    "year": 2023,
+    "image": "vinyls-cover/28793230.jpg"
+  },
+  {
+    "title": "Niene Geits So Schön Und Luschtig",
+    "artist": "Various",
+    "label": "Ex Libris",
+    "year": 0,
+    "image": "vinyls-cover/18861754.jpg"
+  },
+  {
+    "title": "Mucho Mejor",
+    "artist": "Ruben Blades",
+    "label": "Fania Records",
+    "year": 1984,
+    "image": "vinyls-cover/1880218.jpg"
+  },
+  {
+    "title": "Arbina",
+    "artist": "Noura Mint Seymali",
+    "label": "Glitterbeat",
+    "year": 2016,
+    "image": "vinyls-cover/9165981.jpg"
+  },
+  {
+    "title": "Ma Kuku Yege",
+    "artist": "Evangelist Ojo Ade",
+    "label": "Gospel Choral Records",
+    "year": 1989,
+    "image": "vinyls-cover/33151104.jpg"
+  },
+  {
+    "title": "Synchro System",
+    "artist": "King Sunny Ade & His African Beats",
+    "label": "Island Records",
+    "year": 1983,
+    "image": "vinyls-cover/1635535.jpg"
+  },
+  {
+    "title": "Which Way Nigeria?",
+    "artist": "Sonny Okosun",
+    "label": "Jive",
+    "year": 1984,
+    "image": "vinyls-cover/3434835.jpg"
+  },
+  {
+    "title": "El Jardinero",
+    "artist": "Wilfrido Vargas",
+    "label": "Karen Records (2)",
+    "year": 1985,
+    "image": "vinyls-cover/5177665.jpg"
+  },
+  {
+    "title": "Nem Kaldı",
+    "artist": "Derya Yıldırım",
+    "label": "Les Disques Bongo Joe",
+    "year": 2017,
+    "image": "vinyls-cover/9580443.jpg"
+  },
+  {
+    "title": "Me Dawo Ase",
+    "artist": "Papa Oyeah Mackenzie",
+    "label": "Love Power Records (2)",
+    "year": 1981,
+    "image": "vinyls-cover/6545091.jpg"
+  },
+  {
+    "title": "40 Yılın 40 Şarkısı Vol.2",
+    "artist": "Selda (2)",
+    "label": "Majör",
+    "year": 2020,
+    "image": "vinyls-cover/15417125.jpg"
+  },
+  {
+    "title": "40 Yılın 40 Şarkısı (1971-∞)",
+    "artist": "Selda (2)",
+    "label": "Majör",
+    "year": 2015,
+    "image": "vinyls-cover/7725698.jpg"
+  },
+  {
+    "title": "The Best Of Osibisa",
+    "artist": "Osibisa",
+    "label": "MCA Records",
+    "year": 0,
+    "image": "vinyls-cover/947353.jpg"
+  },
+  {
+    "title": "No Condition Is Permanent",
+    "artist": "Celestine Ukwu & His Philosophers National",
+    "label": "Mississippi Records",
+    "year": 2022,
+    "image": "vinyls-cover/24083831.jpg"
+  },
+  {
+    "title": "Souvenirs",
+    "artist": "Emahoy Tsegue Maryam Guebrou",
+    "label": "Mississippi Records",
+    "year": 2024,
+    "image": "vinyls-cover/29577472.jpg"
+  },
+  {
+    "title": "Amabutho",
+    "artist": "Ladysmith Black Mambazo",
+    "label": "Motella",
+    "year": 1973,
+    "image": "vinyls-cover/8486586.jpg"
+  },
+  {
+    "title": "The Original Sound Of Mali",
+    "artist": "Various",
+    "label": "Mr Bongo",
+    "year": 2017,
+    "image": "vinyls-cover/10026966.jpg"
+  },
+  {
+    "title": "Greatest Hits",
+    "artist": "Ruben Blades",
+    "label": "Musica Latina International",
+    "year": 1983,
+    "image": "vinyls-cover/4387775.jpg"
+  },
+  {
+    "title": "Hoy Como Ayer",
+    "artist": "Hermanos Gutiérrez (2)",
+    "label": "Not On Label",
+    "year": 2024,
+    "image": "vinyls-cover/29573158.jpg"
+  },
+  {
+    "title": "Musikverein Eintracht Wallisellen",
+    "artist": "Musikverein Eintracht Wallisellen",
+    "label": "Not On Label",
+    "year": 0,
+    "image": "vinyls-cover/6270824.jpg"
+  },
+  {
+    "title": "Air Volta",
+    "artist": "Volta Jazz",
+    "label": "Numero Group",
+    "year": 2022,
+    "image": "vinyls-cover/23564612.jpg"
+  },
+  {
+    "title": "Io Tu Noi Tutti",
+    "artist": "Lucio Battisti",
+    "label": "Numero Uno",
+    "year": 1977,
+    "image": "vinyls-cover/1475668.jpg"
+  },
+  {
+    "title": "Afrika!",
+    "artist": "Oscar And His Hi-life Music",
+    "label": "Odeon",
+    "year": 1971,
+    "image": "vinyls-cover/6472301.jpg"
+  },
+  {
+    "title": "Pomposity",
+    "artist": "Alhaji (Chief) Wasiu Ayinde Barrister & His Talazo Fuji Commanders",
+    "label": "Omo Aje",
+    "year": 1985,
+    "image": "vinyls-cover/6174588.jpg"
+  },
+  {
+    "title": "Alegremente Ecuatoriano ",
+    "artist": "Eduardo Zurita",
+    "label": "Onix",
+    "year": 1991,
+    "image": null
+  },
+  {
+    "title": "Vol. 1 & 2",
+    "artist": "Fela Kuti",
+    "label": "Pathé",
+    "year": 1977,
+    "image": "vinyls-cover/737259.jpg"
+  },
+  {
+    "title": "Sotto Il Segno Dei Pesci",
+    "artist": "Antonello Venditti",
+    "label": "Philips",
+    "year": 1978,
+    "image": "vinyls-cover/9530657.jpg"
+  },
+  {
+    "title": "Weihnacht",
+    "artist": "Various",
+    "label": "Philips",
+    "year": 1986,
+    "image": "vinyls-cover/3120717.jpg"
+  },
+  {
+    "title": "Sweeter Than Honey Calypso 'Mahuno\" And High Lifes Celebration",
+    "artist": "Pat Thomas (3)",
+    "label": "PMG (3)",
+    "year": 2016,
+    "image": "vinyls-cover/9356748.jpg"
+  },
+  {
+    "title": "Love & Hate",
+    "artist": "Michael Kiwanuka",
+    "label": "Polydor",
+    "year": 2022,
+    "image": "vinyls-cover/25191004.jpg"
+  },
+  {
+    "title": "Woman Of Faces ",
+    "artist": "Celeste (8)",
+    "label": "Polydor",
+    "year": 2025,
+    "image": "vinyls-cover/35681047.jpg"
+  },
+  {
+    "title": "Lucio Dalla",
+    "artist": "Lucio Dalla",
+    "label": "RCA",
+    "year": 1979,
+    "image": "vinyls-cover/20173654.jpg"
+  },
+  {
+    "title": "The Best Of",
+    "artist": "John Denver",
+    "label": "RCA",
+    "year": 1974,
+    "image": "vinyls-cover/1818221.jpg"
+  },
+  {
+    "title": "Emozioni",
+    "artist": "Lucio Battisti",
+    "label": "Ricordi",
+    "year": 1982,
+    "image": "vinyls-cover/33326097.jpg"
+  },
+  {
+    "title": "Kora Melodies From The Republic Of The Gambia, West Africa",
+    "artist": "Alhaji Bai Konte",
+    "label": "Rounder Records",
+    "year": 1973,
+    "image": "vinyls-cover/1548048.jpg"
+  },
+  {
+    "title": "Agadez",
+    "artist": "Etran De L'Aïr",
+    "label": "Sahel Sounds",
+    "year": 2022,
+    "image": "vinyls-cover/22095874.jpg"
+  },
+  {
+    "title": "New Ways",
+    "artist": "Leif Vollebekk",
+    "label": "Secret City Records",
+    "year": 2022,
+    "image": "vinyls-cover/23464136.jpg"
+  },
+  {
+    "title": "Revelation",
+    "artist": "Leif Vollebekk",
+    "label": "Secret City Records",
+    "year": 2024,
+    "image": "vinyls-cover/32624589.jpg"
+  },
+  {
+    "title": "S'timela Sase-zola",
+    "artist": "Mbongeni Ngema",
+    "label": "Soul Brothers Records",
+    "year": 1985,
+    "image": "vinyls-cover/7503602.jpg"
+  },
+  {
+    "title": "Bi Üs I Dr Schwyz",
+    "artist": "Various",
+    "label": "SR International",
+    "year": 1965,
+    "image": "vinyls-cover/14258698.jpg"
+  },
+  {
+    "title": "King & Queen",
+    "artist": "Otis Redding",
+    "label": "Stax",
+    "year": 1967,
+    "image": "vinyls-cover/1412356.jpg"
+  },
+  {
+    "title": "Nigeria 70 (The Definitive Story of 1970's Funky Lagos)",
+    "artist": "Various",
+    "label": "Strut",
+    "year": 2012,
+    "image": "vinyls-cover/4144429.jpg"
+  },
+  {
+    "title": "Nigeria 70 (No Wahala: Highlife, Afro-Funk & Juju 1973-1987)",
+    "artist": "Various",
+    "label": "Strut",
+    "year": 2019,
+    "image": "vinyls-cover/13410363.jpg"
+  },
+  {
+    "title": "Nigeria 70 (Sweet Times: Afro-Funk, Highlife & Juju From 1970s Lagos)",
+    "artist": "Various",
+    "label": "Strut",
+    "year": 2016,
+    "image": "vinyls-cover/8685802.jpg"
+  },
+  {
+    "title": "Diabar",
+    "artist": "Gestu De Dakar",
+    "label": "Syllart Records",
+    "year": 2019,
+    "image": "vinyls-cover/14432620.jpg"
+  },
+  {
+    "title": "Shaday",
+    "artist": "Ofra Haza",
+    "label": "TELDEC",
+    "year": 1988,
+    "image": "vinyls-cover/1064727.jpg"
+  },
+  {
+    "title": "Seine Grössten Jodel-Erfolge",
+    "artist": "Ruedi Rymann",
+    "label": "Tell Record",
+    "year": 1985,
+    "image": "vinyls-cover/3163071.jpg"
+  },
+  {
+    "title": "Dr. Orlando Owoh And His Young Kenneries Band",
+    "artist": "Orlando Owoh and His Young Kenneries Band",
+    "label": "Tidal Waves Music",
+    "year": 2023,
+    "image": "vinyls-cover/27853461.jpg"
+  },
+  {
+    "title": "Bosporus Bridges - A Wide Selection Of Turkish Jazz And Funk 1968-1978",
+    "artist": "Various",
+    "label": "Twimo Records",
+    "year": 2021,
+    "image": "vinyls-cover/20240209.jpg"
+  },
+  {
+    "title": "Brothers In Arms",
+    "artist": "Dire Straits",
+    "label": "Vertigo",
+    "year": 1985,
+    "image": "vinyls-cover/28070869.jpg"
+  },
+  {
+    "title": "Je Ka Jo (Let Us Dance)",
+    "artist": "Ebenezer Obey",
+    "label": "Virgin",
+    "year": 1983,
+    "image": "vinyls-cover/3986470.jpg"
+  },
+  {
+    "title": "Orlando Julius And The Afro Sounders",
+    "artist": "Orlando Julius & His Afro Sounders",
+    "label": "Voodoo Funk",
+    "year": 2011,
+    "image": "vinyls-cover/2786387.jpg"
+  },
+  {
+    "title": "Astral Weeks",
+    "artist": "Van Morrison",
+    "label": "Warner Bros. - Seven Arts Records",
+    "year": 0,
+    "image": "vinyls-cover/15655428.jpg"
+  },
+  {
+    "title": "I Am The Living",
+    "artist": "Jimmy Cliff",
+    "label": "WEA",
+    "year": 0,
+    "image": "vinyls-cover/1207778.jpg"
+  },
+  {
+    "title": "Amatssou",
+    "artist": "Tinariwen",
+    "label": "Wedge",
+    "year": 2023,
+    "image": "vinyls-cover/27129915.jpg"
+  },
+  {
+    "title": "Sounds Of Sudan Volume 3",
+    "artist": "محمد جبارة",
+    "label": "World Circuit",
+    "year": 1988,
+    "image": "vinyls-cover/2365118.jpg"
+  },
+  {
+    "title": "The Source",
+    "artist": "Ali Farka Touré",
+    "label": "World Circuit",
+    "year": 2017,
+    "image": "vinyls-cover/10614358.jpg"
+  },
+  {
+    "title": "Tribute To Ndiouga Dieng",
+    "artist": "Orchestra Baobab",
+    "label": "World Circuit",
+    "year": 2017,
+    "image": "vinyls-cover/10049058.jpg"
+  },
+  {
+    "title": "Ali & Toumani",
+    "artist": "Ali Farka Touré",
+    "label": "World Circuit",
+    "year": 0,
+    "image": "vinyls-cover/18930889.jpg"
+  },
+  {
+    "title": "EroZero",
+    "artist": "Renato Zero",
+    "label": "Zerolandia",
+    "year": 1979,
+    "image": "vinyls-cover/1456443.jpg"
+  },
+  {
+    "title": "I Han Es Zündhölzli Azündt",
+    "artist": "Mani Matter",
+    "label": "Zytglogge",
+    "year": 0,
+    "image": "vinyls-cover/10922890.jpg"
+  }
+]

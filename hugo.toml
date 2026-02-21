@@ -20,6 +20,10 @@ url = "/"
 name = "short-bio"
 url = "/short-bio"
 
+[[params.menu]]
+name = "vinyls"
+url = "/vinyls"
+
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/colin-walder/"

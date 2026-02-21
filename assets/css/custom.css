@@ -1,0 +1,53 @@
+.vinyl-page h1 {
+  margin-bottom: 0.2em;
+}
+
+.vinyl-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1.5rem;
+}
+
+.vinyl-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-decoration: none;
+}
+
+.vinyl-card:hover img {
+  opacity: 0.85;
+}
+
+.vinyl-card img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  display: block;
+}
+
+.vinyl-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.vinyl-title {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--content-primary);
+  margin: 0;
+  line-height: 1.3;
+}
+
+.vinyl-artist {
+  font-size: 0.75rem;
+  color: var(--content-secondary);
+  margin: 0;
+}
+
+.vinyl-year {
+  font-size: 0.7rem;
+  color: var(--content-secondary);
+  margin: 0;
+}

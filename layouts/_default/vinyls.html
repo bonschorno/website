@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="vinyl-page">
+  <h1>Vinyl Collection</h1>
+  {{ with .Content }}{{ . }}{{ end }}
+
+  <div class="vinyl-grid">
+    {{ range .Site.Data.vinyls }}
+    {{ $query := printf "%s %s" .artist .title | urlquery }}
+    <a class="vinyl-card" href="https://www.youtube.com/results?search_query={{ $query }}" target="_blank" rel="noopener noreferrer">
+      {{ if .image }}
+        {{ $image := resources.Get .image }}
+        {{ if $image }}
+          {{ $thumb := $image.Fill "300x300 Center" }}
+          <img
+            src="{{ $thumb.RelPermalink }}"
+            alt="{{ .title }} by {{ .artist }}"
+            loading="lazy"
+          >
+        {{ end }}
+      {{ end }}
+      <div class="vinyl-info">
+        <p class="vinyl-title">{{ .title }}</p>
+        <p class="vinyl-artist">{{ .artist }}</p>
+        {{ with .year }}<p class="vinyl-year">{{ . }}</p>{{ end }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
