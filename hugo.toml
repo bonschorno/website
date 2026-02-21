@@ -9,6 +9,8 @@ homeIntroTitle = "Salut! 👋"
 homeIntroContent = """
 """
 
+footerContent = "Powered by [Hugo](https://gohugo.io/), co-created with [Claude](https://claude.ai/), and theme based on [tomfran/typo](https://github.com/tomfran/typo)"
+
 # Main menu pages
 
 [[params.menu]]
@@ -26,5 +28,3 @@ url = "/pizza"
 [[params.menu]]
 name = "about"
 url = "/about"
-
-footerContent = "Powered by [Hugo](https://gohugo.io/), co-created with [Claude](https://claude.ai/), and theme based on [tomfran/typo](https://github.com/tomfran/typo)"
